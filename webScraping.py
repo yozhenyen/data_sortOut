@@ -4,8 +4,7 @@ from bs4 import BeautifulSoup as bs
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 import time
-import pandas as ps
-import numpy as np
+
 
 # chrome_options = Options()
 # chrome_options.add_argument("--headless")
